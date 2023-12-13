@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "449333740122",
+    "firebase_url": "https://collegeadmin-7e4d2-default-rtdb.firebaseio.com",
+    "project_id": "collegeadmin-7e4d2",
+    "storage_bucket": "collegeadmin-7e4d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449333740122:android:3af61e74923b9ba2f88e63",
+        "android_client_info": {
+          "package_name": "com.lbas.collegeadmin",
+          "package_name": "com.lbas.collegestudentapp"        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449333740122-fqd22ve6dl0qgvi512kifjnbggml370o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOt6cX5ziSVE9zvi8bhwiEDu8s_HB_oYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449333740122-fqd22ve6dl0qgvi512kifjnbggml370o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
